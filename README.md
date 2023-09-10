@@ -1,7 +1,9 @@
 # Getting Started with TaskManager_App
 
 This project was deployed in vercel:  [TaskManager_App](https://taskmanger-kappa.vercel.app/).
-You can test the webapp with the link.
+You can test the webapp with the link.\
+`demo_Id:` user1@gmail.com \
+`demo_Pass:` user@1
 
 ## Available Scripts for React
 
